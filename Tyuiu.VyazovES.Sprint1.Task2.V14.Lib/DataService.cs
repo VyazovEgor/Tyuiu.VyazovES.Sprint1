@@ -6,7 +6,7 @@ namespace Tyuiu.VyazovES.Sprint1.Task2.V14.Lib
     {
         public int ConvertKelvinToCelsius(int x)
         {
-            return x+273;
+            return x-273;
         }
     }
 }
